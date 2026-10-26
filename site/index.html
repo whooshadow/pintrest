@@ -10,8 +10,6 @@
       --bg: #f4f1ea;
       --card: #ffffff;
       --ink: #2f3b30;
-      --accent: #3f6a4f;
-      --accent-ink: #ffffff;
       --muted: #6b7a6c;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -19,10 +17,10 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background: var(--bg);
       color: var(--ink);
-      line-height: 1.5;
+      line-height: 1.45;
       padding: 24px 16px 60px;
     }
-    .wrap { max-width: 520px; margin: 0 auto; }
+    .wrap { max-width: 540px; margin: 0 auto; }
     header { text-align: center; margin-bottom: 8px; }
     h1 { font-size: 1.5rem; line-height: 1.25; margin-bottom: 8px; }
     .sub { color: var(--muted); font-size: 0.95rem; margin-bottom: 14px; }
@@ -37,20 +35,37 @@
       margin: 0 auto 22px;
     }
     a.link {
-      display: block;
+      display: flex;
+      align-items: center;
+      gap: 14px;
       background: var(--card);
       border: 1px solid #e4e0d6;
       border-radius: 14px;
-      padding: 16px 18px;
+      padding: 12px 14px;
       margin-bottom: 12px;
       text-decoration: none;
       color: var(--ink);
-      font-weight: 600;
       transition: transform .08s ease, box-shadow .15s ease;
       box-shadow: 0 1px 2px rgba(0,0,0,.04);
     }
     a.link:hover { transform: translateY(-1px); box-shadow: 0 4px 14px rgba(0,0,0,.08); }
-    a.link .tag { display: block; font-weight: 400; font-size: 0.85rem; color: var(--muted); margin-top: 2px; }
+    /* Thumbnail: shows an <img> if present, otherwise the emoji fallback */
+    .thumb {
+      flex: 0 0 56px;
+      width: 56px;
+      height: 56px;
+      border-radius: 10px;
+      background: #eef3ea;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.8rem;
+      overflow: hidden;
+    }
+    .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .meta { min-width: 0; }
+    .meta .title { font-weight: 600; font-size: 1rem; }
+    .meta .tag { display: block; font-weight: 400; font-size: 0.85rem; color: var(--muted); margin-top: 2px; }
     footer { text-align: center; color: var(--muted); font-size: 0.78rem; margin-top: 26px; }
   </style>
 </head>
@@ -64,49 +79,62 @@
     <p class="disclosure">As an Amazon Associate I earn from qualifying purchases. #ad</p>
 
     <!-- =============================================================
-         EDIT YOUR LINKS HERE
-         Replace each href="#" with YOUR full affiliate link.
-         Each link MUST contain tag=ordinaryday20-20 or it won't earn.
+         EACH ROW HAS A .thumb WITH AN EMOJI PLACEHOLDER.
+         To use a real photo later: put an image file in  site/img/
+         (your own photo, or a free Unsplash/Pexels image — NOT an
+         Amazon product image), then replace the emoji with:
+           <img src="img/your-file.jpg" alt="Beeswax wraps" />
+         Keep links' tag=ordinaryday20-20 intact.
          ============================================================= -->
 
     <a class="link" href="https://link.amazon/B03NDNhX0" target="_blank" rel="nofollow sponsored noopener">
-      Beeswax Wraps <span class="tag">Plastic-free food wrap</span>
+      <span class="thumb">🐝</span>
+      <span class="meta"><span class="title">Beeswax Wraps</span><span class="tag">Plastic-free food wrap</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B0h5PVeMI" target="_blank" rel="nofollow sponsored noopener">
-      Swedish Dishcloths <span class="tag">Reusable paper towels</span>
+      <span class="thumb">🧽</span>
+      <span class="meta"><span class="title">Swedish Dishcloths</span><span class="tag">Reusable paper towels</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B00NahvAG" target="_blank" rel="nofollow sponsored noopener">
-      Bamboo Dish Brush <span class="tag">Plastic-free scrubber</span>
+      <span class="thumb">🎋</span>
+      <span class="meta"><span class="title">Bamboo Dish Brush</span><span class="tag">Plastic-free scrubber</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B07fxUOtP" target="_blank" rel="nofollow sponsored noopener">
-      Silicone Stretch Lids <span class="tag">Reusable bowl covers</span>
+      <span class="thumb">🥣</span>
+      <span class="meta"><span class="title">Silicone Stretch Lids</span><span class="tag">Reusable bowl covers</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B0hgKuJY9" target="_blank" rel="nofollow sponsored noopener">
-      Reusable Coffee Filter <span class="tag">No more paper filters (AeroPress)</span>
+      <span class="thumb">☕</span>
+      <span class="meta"><span class="title">Reusable Coffee Filter</span><span class="tag">No more paper filters (AeroPress)</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B0d8UEQfB" target="_blank" rel="nofollow sponsored noopener">
-      Solid Dish Soap Bar <span class="tag">Zero plastic packaging</span>
+      <span class="thumb">🧼</span>
+      <span class="meta"><span class="title">Solid Dish Soap Bar</span><span class="tag">Zero plastic packaging</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B06j2UU2e" target="_blank" rel="nofollow sponsored noopener">
-      Reusable Produce Bags <span class="tag">Cotton mesh for groceries</span>
+      <span class="thumb">🥦</span>
+      <span class="meta"><span class="title">Reusable Produce Bags</span><span class="tag">Cotton mesh for groceries</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B040FSeJe" target="_blank" rel="nofollow sponsored noopener">
-      Silicone Food Storage Bags <span class="tag">Reusable, leakproof</span>
+      <span class="thumb">🥪</span>
+      <span class="meta"><span class="title">Silicone Food Storage Bags</span><span class="tag">Reusable, leakproof</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B05CKT5NK" target="_blank" rel="nofollow sponsored noopener">
-      Reusable Ziplock Bags <span class="tag">Plastic-free snack &amp; freezer bags</span>
+      <span class="thumb">❄️</span>
+      <span class="meta"><span class="title">Reusable Ziplock Bags</span><span class="tag">Plastic-free snack &amp; freezer bags</span></span>
     </a>
 
     <a class="link" href="https://link.amazon/B00Kn8wfM" target="_blank" rel="nofollow sponsored noopener">
-      Bamboo Cutlery Set <span class="tag">Reusable on-the-go utensils</span>
+      <span class="thumb">🍴</span>
+      <span class="meta"><span class="title">Bamboo Cutlery Set</span><span class="tag">Reusable on-the-go utensils</span></span>
     </a>
 
     <!-- =========================== END LINKS =========================== -->
