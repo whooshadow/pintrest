@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-26
 
+LIVE LANDING PAGE: https://ordinarydayinyourlife.netlify.app/
+(hosted on Netlify, source in site/index.html — push to update)
+Use this as the destination link for ALL pins.
+
 ====================================================================
 WHAT'S DONE SO FAR
 ====================================================================
