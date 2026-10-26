@@ -36,13 +36,24 @@ How to get each link:
   -> SiteStripe bar at top -> "Text" -> Copy -> paste here with a label.
 
 ====================================================================
-OPEN QUESTION TO RESOLVE: WHICH AMAZON STORE?
+RESOLVED: AMAZON STORE = US (.com)
 ====================================================================
-Prices showed in SEK (Swedish kronor). Need to confirm the Associates
-account is for the store the audience can buy from:
-  - amazon.se (Sweden)  OR  amazon.com (US)
-Links must match the program you joined, or commissions won't track.
-ACTION: check Associates dashboard URL (.se or .com) + approval status.
+Confirmed 2026-10-26. Dashboard is affiliate-program.amazon.com
+= the US Associates program. (The SEK prices seen earlier were just
+Amazon showing Swedish delivery because we're located in Sweden; the
+PROGRAM and the SiteStripe links are US/.com.)
+
+Implications:
+  - All links must be amazon.com links (NOT amazon.se).
+  - Target a US audience: English-language pins, US-oriented boards.
+  - Commissions track on amazon.com purchases with the US tracking tag.
+  - Still conditional: need 3 qualifying sales in 180 days to stay active.
+
+STILL TO VERIFY:
+  - Account is APPROVED (not just registered).
+  - Note your US tracking/store ID (embedded in every SiteStripe link).
+  - (Later, month 2-3) Consider Amazon OneLink to also capture
+    international buyers via their local Amazon store.
 
 ====================================================================
 NEXT STEP 1 — BUILD THE LANDING PAGE (Beacons, free)
