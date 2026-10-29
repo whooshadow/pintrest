@@ -1,0 +1,215 @@
+{
+  "slug": "kitchen",
+  "order": 1,
+  "label": "ZERO WASTE KITCHEN",
+  "page_path": "index.html",
+  "url": "https://ordinarydayinyourlife.netlify.app/",
+  "board": "Zero waste kitchen swap",
+  "h1": "10 Zero Waste Kitchen Swaps Under $20",
+  "sub": "Simple, affordable reusable swaps to cut plastic and save money.",
+  "meta": "Easy affordable zero waste kitchen swaps for beginners. Reusable, plastic free, budget friendly.",
+  "footer": "Ordinary Day · Zero Waste Kitchen Swaps",
+  "theme": {
+    "bg": "#f4f1ea",
+    "ink": "#2f3b30",
+    "muted": "#6b7a6c",
+    "soft": "#eef3ea",
+    "softborder": "#d8e2d4",
+    "cardborder": "#e4e0d6"
+  },
+  "products": [
+    {
+      "n": 1,
+      "emoji": "🐝",
+      "title": "Beeswax Wraps",
+      "tag": "Plastic-free food wrap"
+    },
+    {
+      "n": 2,
+      "emoji": "🧽",
+      "title": "Swedish Dishcloths",
+      "tag": "Reusable paper towels"
+    },
+    {
+      "n": 3,
+      "emoji": "🎋",
+      "title": "Bamboo Dish Brush",
+      "tag": "Plastic-free scrubber"
+    },
+    {
+      "n": 4,
+      "emoji": "🥣",
+      "title": "Silicone Stretch Lids",
+      "tag": "Reusable bowl covers"
+    },
+    {
+      "n": 5,
+      "emoji": "☕",
+      "title": "Reusable Coffee Filter",
+      "tag": "No more paper filters (AeroPress)"
+    },
+    {
+      "n": 6,
+      "emoji": "🧼",
+      "title": "Solid Dish Soap Bar",
+      "tag": "Zero plastic packaging"
+    },
+    {
+      "n": 7,
+      "emoji": "🥦",
+      "title": "Reusable Produce Bags",
+      "tag": "Cotton mesh for groceries"
+    },
+    {
+      "n": 8,
+      "emoji": "🥪",
+      "title": "Silicone Food Storage Bags",
+      "tag": "Reusable, leakproof"
+    },
+    {
+      "n": 9,
+      "emoji": "❄️",
+      "title": "Reusable Ziplock Bags",
+      "tag": "Plastic-free snack & freezer bags"
+    },
+    {
+      "n": 10,
+      "emoji": "🍴",
+      "title": "Bamboo Cutlery Set",
+      "tag": "Reusable on-the-go utensils"
+    }
+  ],
+  "pins": [
+    {
+      "n": 1,
+      "main": [
+        "10 Zero Waste",
+        "Kitchen Swaps",
+        "Under $20"
+      ],
+      "sub": "Easy + affordable for beginners",
+      "photo_hint": "zero waste kitchen glass jars",
+      "title": "10 Zero Waste Kitchen Swaps Under $20",
+      "description": "Easy affordable zero waste kitchen swaps for beginners. Simple eco friendly ideas to cut plastic and save money at home. Reusable, plastic free, and budget friendly. #ad #zerowaste #ecofriendly #sustainableliving #plasticfree",
+      "posted": true,
+      "emoji": "🌿"
+    },
+    {
+      "n": 2,
+      "main": [
+        "Plastic-Free",
+        "Kitchen Essentials",
+        "on a Budget"
+      ],
+      "sub": "Simple swaps anyone can start",
+      "photo_hint": "beeswax wraps bowl",
+      "title": "Plastic Free Kitchen Essentials on a Budget",
+      "description": "Swap single-use plastic for reusable kitchen basics. Beeswax wraps, Swedish dishcloths, and more low waste swaps under $20. Beginner friendly eco ideas. #ad #plasticfree #zerowastehome #ecoliving #sustainablekitchen",
+      "emoji": "🐝"
+    },
+    {
+      "n": 3,
+      "main": [
+        "Reusable Kitchen",
+        "Products That",
+        "Save You Money"
+      ],
+      "sub": "Stop buying paper towels + plastic wrap",
+      "photo_hint": "dishcloth kitchen counter",
+      "title": "Reusable Kitchen Products That Save You Money",
+      "description": "These reusable kitchen swaps replace paper towels, plastic wrap, and ziplock bags, saving money over time. Affordable zero waste ideas for beginners. #ad #reusable #zerowaste #ecofriendly #savemoney",
+      "emoji": "🧽"
+    },
+    {
+      "n": 4,
+      "main": [
+        "Zero Waste",
+        "Dish Washing",
+        "Setup"
+      ],
+      "sub": "Brush, soap bar + cloths",
+      "photo_hint": "kitchen sink dish brush",
+      "title": "Zero Waste Dish Washing Setup (Brush, Soap Bar and Cloths)",
+      "description": "Build a plastic free dish washing routine with a bamboo brush, solid dish soap bar, and reusable dishcloths. Simple, affordable zero waste swaps for beginners. #ad #zerowaste #plasticfree #dishwashing #ecofriendly",
+      "emoji": "🧼"
+    },
+    {
+      "n": 5,
+      "main": [
+        "10 Easy Eco",
+        "Swaps for Your",
+        "Kitchen"
+      ],
+      "sub": "A simple beginner list",
+      "photo_hint": "cozy kitchen plants",
+      "title": "10 Easy Eco Swaps for Your Kitchen (Beginner List)",
+      "description": "Simple sustainable swaps for the kitchen that cut plastic and waste. Affordable eco friendly products for beginners, all under $20. #ad #ecoswaps #zerowaste #plasticfreeliving #sustainablehome",
+      "emoji": "🌱"
+    },
+    {
+      "n": 6,
+      "main": [
+        "Zero Waste",
+        "Food Storage",
+        "Swaps"
+      ],
+      "sub": "No more plastic wrap",
+      "photo_hint": "food storage fridge containers",
+      "title": "Zero Waste Food Storage Swaps (No More Plastic Wrap)",
+      "description": "Store food without single-use plastic. Beeswax wraps, silicone lids, reusable storage bags and produce bags, all under $20. Beginner friendly and eco friendly. #ad #zerowaste #plasticfree #foodstorage #ecofriendly",
+      "emoji": "🥣"
+    },
+    {
+      "n": 7,
+      "main": [
+        "Plastic-Free",
+        "Alternatives to",
+        "Everyday Items"
+      ],
+      "sub": "Swap what you already use daily",
+      "photo_hint": "reusable bags vegetables",
+      "title": "Plastic Free Alternatives to Everyday Kitchen Items",
+      "description": "Replace plastic wrap, paper towels, and plastic bags with reusable swaps. Affordable zero waste kitchen ideas for beginners. #ad #plasticfree #zerowaste #ecofriendly #reusable",
+      "emoji": "♻️"
+    },
+    {
+      "n": 8,
+      "main": [
+        "How to Start",
+        "Zero Waste Without",
+        "Spending a Fortune"
+      ],
+      "sub": "Cheap swaps under $20",
+      "photo_hint": "hands holding reusable bag",
+      "title": "How to Start Zero Waste Without Spending a Fortune",
+      "description": "Start your zero waste journey on a budget with these cheap, reusable kitchen swaps under $20. Beginner friendly and eco friendly. #ad #zerowaste #zerowasteonabudget #ecoliving #sustainableliving",
+      "emoji": "🌍"
+    },
+    {
+      "n": 9,
+      "main": [
+        "Beeswax Wraps",
+        "vs Plastic Wrap",
+        "Worth It?"
+      ],
+      "sub": "A quick comparison",
+      "photo_hint": "beeswax wrap food",
+      "title": "Beeswax Wraps vs Plastic Wrap: Worth It?",
+      "description": "Are reusable beeswax wraps worth switching to? A simple plastic free swap that can cut kitchen waste and save money over time. #ad #beeswaxwraps #zerowaste #plasticfree #ecofriendly",
+      "emoji": "🐝"
+    },
+    {
+      "n": 10,
+      "main": [
+        "Zero Waste",
+        "Kitchen Swaps",
+        "Worth Trying"
+      ],
+      "sub": "All under $20",
+      "photo_hint": "minimalist kitchen counter",
+      "title": "Zero Waste Kitchen Swaps Worth Trying",
+      "description": "Reusable kitchen swaps for a low waste home. Affordable, plastic free, and beginner friendly, all under $20. #ad #zerowaste #ecofriendly #sustainablekitchen #reusable",
+      "emoji": "🍃"
+    }
+  ]
+}

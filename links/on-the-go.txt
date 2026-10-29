@@ -1,0 +1,36 @@
+# LINKS FOR: 10 Reusable Swaps for Lunch & Travel Under $20
+# Paste your Amazon affiliate link on the 'LINK:' line under each product.
+# Accepted: SiteStripe short link (https://link.amazon/...), a full amazon.com
+# link containing tag=ordinaryday20-20, or just the 10-character ASIN (e.g. B07ZF79RN6).
+# Lines starting with # are ignored. Leave LINK: empty to skip a product for now.
+# Each product must match the name above its LINK: line.
+
+1. Insulated Water Bottle  (Skip bottled water)
+LINK:
+
+2. Reusable Metal Straws  (Stainless steel with case)
+LINK:
+
+3. Insulated Travel Tumbler  (Hot or cold drinks)
+LINK:
+
+4. Bamboo Travel Cutlery Set  (Skip plastic utensils)
+LINK:
+
+5. Stainless Steel Lunch Box  (Plastic-free bento)
+LINK:
+
+6. Reusable Silicone Snack Bags  (Leakproof and washable)
+LINK:
+
+7. Collapsible Food Container  (Packs flat when empty)
+LINK:
+
+8. Foldable Reusable Tote Bag  (Fits in your pocket)
+LINK:
+
+9. Reusable Ice Packs  (Keeps lunch cold)
+LINK:
+
+10. Silicone Cup Lid  (Skip disposable lids)
+LINK:

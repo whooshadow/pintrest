@@ -1,0 +1,214 @@
+{
+  "slug": "bathroom",
+  "order": 2,
+  "label": "ZERO WASTE BATHROOM",
+  "page_path": "bathroom/index.html",
+  "url": "https://ordinarydayinyourlife.netlify.app/bathroom/",
+  "board": "Zero Waste Bathroom",
+  "h1": "10 Zero Waste Bathroom Swaps Under $20",
+  "sub": "Simple, affordable plastic-free swaps for a low waste bathroom.",
+  "meta": "Easy plastic free bathroom swaps for beginners. Affordable, eco friendly and low waste.",
+  "footer": "Ordinary Day · Zero Waste Bathroom Swaps",
+  "theme": {
+    "bg": "#eef4f6",
+    "ink": "#1f3a44",
+    "muted": "#5f7a85",
+    "soft": "#e1eef2",
+    "softborder": "#c9dde4",
+    "cardborder": "#d9e5ea"
+  },
+  "products": [
+    {
+      "n": 1,
+      "emoji": "🪥",
+      "title": "Bamboo Toothbrushes",
+      "tag": "Plastic-free multi-pack"
+    },
+    {
+      "n": 2,
+      "emoji": "🌸",
+      "title": "Reusable Makeup Remover Pads",
+      "tag": "Washable cotton rounds"
+    },
+    {
+      "n": 3,
+      "emoji": "💆",
+      "title": "Shampoo & Conditioner Bars",
+      "tag": "Zero plastic bottles"
+    },
+    {
+      "n": 4,
+      "emoji": "🌿",
+      "title": "Fragrance-Free Shampoo Bar",
+      "tag": "Gentle on sensitive scalps"
+    },
+    {
+      "n": 5,
+      "emoji": "🧼",
+      "title": "Natural Bar Soap",
+      "tag": "Plastic-free body wash swap"
+    },
+    {
+      "n": 6,
+      "emoji": "🪒",
+      "title": "Reusable Safety Razor",
+      "tag": "Replaces disposable razors"
+    },
+    {
+      "n": 7,
+      "emoji": "✨",
+      "title": "Reusable Cotton Swabs",
+      "tag": "Wash and reuse"
+    },
+    {
+      "n": 8,
+      "emoji": "💇",
+      "title": "Bamboo Hairbrush",
+      "tag": "Plastic-free brush"
+    },
+    {
+      "n": 9,
+      "emoji": "🦷",
+      "title": "Toothpaste Tablets",
+      "tag": "Plastic-free toothpaste"
+    },
+    {
+      "n": 10,
+      "emoji": "🎋",
+      "title": "Bamboo Cotton Buds",
+      "tag": "Compostable swabs"
+    }
+  ],
+  "pins": [
+    {
+      "n": 1,
+      "main": [
+        "10 Zero Waste",
+        "Bathroom Swaps",
+        "Under $20"
+      ],
+      "sub": "Easy plastic-free swaps for beginners",
+      "photo_hint": "bathroom shelf bamboo",
+      "title": "10 Zero Waste Bathroom Swaps Under $20",
+      "description": "Easy plastic free bathroom swaps for beginners. Simple eco friendly ideas to cut waste in your bathroom, from bamboo toothbrushes to shampoo bars and reusable cotton pads. All under $20. #ad #zerowaste #plasticfree #ecofriendly #sustainableliving",
+      "emoji": "🛁"
+    },
+    {
+      "n": 2,
+      "main": [
+        "Plastic-Free",
+        "Bathroom",
+        "Essentials"
+      ],
+      "sub": "A simple beginner guide",
+      "photo_hint": "minimalist bathroom",
+      "title": "Plastic Free Bathroom Essentials for Beginners",
+      "description": "Start a low waste bathroom with simple swaps like shampoo bars, bamboo toothbrushes and reusable pads. Beginner friendly eco ideas, all under $20. #ad #zerowaste #plasticfree #ecofriendly #sustainablebathroom",
+      "emoji": "🍃"
+    },
+    {
+      "n": 3,
+      "main": [
+        "Shampoo Bars",
+        "vs Bottles",
+        "Worth It?"
+      ],
+      "sub": "A beginner's look",
+      "photo_hint": "shampoo bar soap",
+      "title": "Shampoo Bars vs Bottles: Worth Switching?",
+      "description": "Thinking about switching to a shampoo bar? A plastic free swap that cuts bathroom packaging waste. See some affordable options under $20. #ad #shampoobar #zerowaste #plasticfree #ecofriendly",
+      "emoji": "🫧"
+    },
+    {
+      "n": 4,
+      "main": [
+        "Bamboo",
+        "Toothbrush",
+        "Swap"
+      ],
+      "sub": "An easy first step",
+      "photo_hint": "bamboo toothbrush",
+      "title": "Bamboo Toothbrushes: An Easy Plastic Free Swap",
+      "description": "Swapping your plastic toothbrush for a bamboo one is one of the easiest zero waste steps. Affordable multi-packs under $20. #ad #bambootoothbrush #zerowaste #plasticfree #ecofriendly",
+      "emoji": "🌿"
+    },
+    {
+      "n": 5,
+      "main": [
+        "Reusable",
+        "Makeup Remover",
+        "Pads"
+      ],
+      "sub": "A simple swap for cotton rounds",
+      "photo_hint": "reusable cotton pads face",
+      "title": "Reusable Makeup Remover Pads: A Simple Zero Waste Swap",
+      "description": "Replace disposable cotton rounds with washable, reusable pads. An easy low waste skincare swap for beginners, under $20. #ad #reusablepads #zerowaste #plasticfree #ecofriendly",
+      "emoji": "🌸"
+    },
+    {
+      "n": 6,
+      "main": [
+        "Low Waste",
+        "Bathroom Swaps",
+        "for Beginners"
+      ],
+      "sub": "Start small, all under $20",
+      "photo_hint": "clean bathroom counter",
+      "title": "Low Waste Bathroom Swaps for Beginners",
+      "description": "New to zero waste? These simple bathroom swaps are an easy place to start. Beginner friendly, plastic free and all under $20. #ad #lowwaste #zerowaste #sustainableliving #ecofriendly",
+      "emoji": "🌱"
+    },
+    {
+      "n": 7,
+      "main": [
+        "How to Make",
+        "Your Bathroom",
+        "Zero Waste"
+      ],
+      "sub": "Step by step swaps",
+      "photo_hint": "eco friendly bathroom",
+      "title": "How to Make Your Bathroom Zero Waste (Easy Swaps)",
+      "description": "A simple way to cut plastic in your bathroom, one swap at a time. Shampoo bars, bamboo toothbrushes, bar soap and more under $20. #ad #zerowaste #plasticfree #sustainableliving #ecofriendly",
+      "emoji": "♻️"
+    },
+    {
+      "n": 8,
+      "main": [
+        "Plastic-Free",
+        "Bathroom Products",
+        "Under $20"
+      ],
+      "sub": "Affordable eco picks",
+      "photo_hint": "natural soap bars",
+      "title": "Plastic Free Bathroom Products Under $20",
+      "description": "Affordable plastic free bathroom products for a low waste routine. Bar soap, shampoo bars, bamboo toothbrushes and reusable pads. #ad #plasticfree #zerowaste #ecofriendly #sustainableliving",
+      "emoji": "🧼"
+    },
+    {
+      "n": 9,
+      "main": [
+        "Zero Waste",
+        "Shower Routine",
+        "Simple Swaps"
+      ],
+      "sub": "Bar soap + shampoo bar",
+      "photo_hint": "soap bar shower",
+      "title": "Zero Waste Shower Routine: Shampoo Bar and Bar Soap",
+      "description": "Cut down on plastic bottles in the shower with a shampoo bar and bar soap. A simple zero waste routine for beginners. #ad #zerowaste #shampoobar #plasticfree #ecofriendly",
+      "emoji": "🚿"
+    },
+    {
+      "n": 10,
+      "main": [
+        "Eco Friendly",
+        "Bathroom Ideas",
+        "on a Budget"
+      ],
+      "sub": "Small swaps, all under $20",
+      "photo_hint": "green plants bathroom",
+      "title": "Eco Friendly Bathroom Ideas on a Budget",
+      "description": "Easy eco friendly bathroom ideas that don't cost much. Simple plastic free swaps for a low waste home, all under $20. #ad #ecofriendly #zerowaste #plasticfree #sustainableliving",
+      "emoji": "🌿"
+    }
+  ]
+}

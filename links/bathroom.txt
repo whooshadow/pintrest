@@ -1,0 +1,36 @@
+# LINKS FOR: 10 Zero Waste Bathroom Swaps Under $20
+# Paste your Amazon affiliate link on the 'LINK:' line under each product.
+# Accepted: SiteStripe short link (https://link.amazon/...), a full amazon.com
+# link containing tag=ordinaryday20-20, or just the 10-character ASIN (e.g. B07ZF79RN6).
+# Lines starting with # are ignored. Leave LINK: empty to skip a product for now.
+# Each product must match the name above its LINK: line.
+
+1. Bamboo Toothbrushes  (Plastic-free multi-pack)
+LINK:
+
+2. Reusable Makeup Remover Pads  (Washable cotton rounds)
+LINK:
+
+3. Shampoo & Conditioner Bars  (Zero plastic bottles)
+LINK:
+
+4. Fragrance-Free Shampoo Bar  (Gentle on sensitive scalps)
+LINK:
+
+5. Natural Bar Soap  (Plastic-free body wash swap)
+LINK:
+
+6. Reusable Safety Razor  (Replaces disposable razors)
+LINK:
+
+7. Reusable Cotton Swabs  (Wash and reuse)
+LINK:
+
+8. Bamboo Hairbrush  (Plastic-free brush)
+LINK:
+
+9. Toothpaste Tablets  (Plastic-free toothpaste)
+LINK:
+
+10. Bamboo Cotton Buds  (Compostable swabs)
+LINK:

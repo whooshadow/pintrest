@@ -1,0 +1,36 @@
+# LINKS FOR: 10 Zero Waste Kitchen Swaps Under $20
+# Paste your Amazon affiliate link on the 'LINK:' line under each product.
+# Accepted: SiteStripe short link (https://link.amazon/...), a full amazon.com
+# link containing tag=ordinaryday20-20, or just the 10-character ASIN (e.g. B07ZF79RN6).
+# Lines starting with # are ignored. Leave LINK: empty to skip a product for now.
+# Each product must match the name above its LINK: line.
+
+1. Beeswax Wraps  (Plastic-free food wrap)
+LINK: https://link.amazon/B03NDNhX0
+
+2. Swedish Dishcloths  (Reusable paper towels)
+LINK: https://link.amazon/B0h5PVeMI
+
+3. Bamboo Dish Brush  (Plastic-free scrubber)
+LINK: https://link.amazon/B00NahvAG
+
+4. Silicone Stretch Lids  (Reusable bowl covers)
+LINK: https://link.amazon/B07fxUOtP
+
+5. Reusable Coffee Filter  (No more paper filters (AeroPress))
+LINK: https://link.amazon/B0hgKuJY9
+
+6. Solid Dish Soap Bar  (Zero plastic packaging)
+LINK: https://link.amazon/B0d8UEQfB
+
+7. Reusable Produce Bags  (Cotton mesh for groceries)
+LINK: https://link.amazon/B06j2UU2e
+
+8. Silicone Food Storage Bags  (Reusable, leakproof)
+LINK: https://link.amazon/B040FSeJe
+
+9. Reusable Ziplock Bags  (Plastic-free snack & freezer bags)
+LINK: https://link.amazon/B05CKT5NK
+
+10. Bamboo Cutlery Set  (Reusable on-the-go utensils)
+LINK: https://link.amazon/B00Kn8wfM

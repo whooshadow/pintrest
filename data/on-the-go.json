@@ -1,0 +1,214 @@
+{
+  "slug": "on-the-go",
+  "order": 3,
+  "label": "REUSABLE ON THE GO",
+  "page_path": "on-the-go/index.html",
+  "url": "https://ordinarydayinyourlife.netlify.app/on-the-go/",
+  "board": "Reusable On The Go",
+  "h1": "10 Reusable Swaps for Lunch & Travel Under $20",
+  "sub": "Easy reusable swaps to cut single-use plastic on the go.",
+  "meta": "Easy reusable swaps for lunch and travel. Affordable, eco friendly and beginner friendly.",
+  "footer": "Ordinary Day · Reusable Swaps On The Go",
+  "theme": {
+    "bg": "#f7f0e8",
+    "ink": "#4a2a18",
+    "muted": "#8a6a55",
+    "soft": "#f3e6d6",
+    "softborder": "#e8d3b9",
+    "cardborder": "#eadccb"
+  },
+  "products": [
+    {
+      "n": 1,
+      "emoji": "💧",
+      "title": "Insulated Water Bottle",
+      "tag": "Skip bottled water"
+    },
+    {
+      "n": 2,
+      "emoji": "🥤",
+      "title": "Reusable Metal Straws",
+      "tag": "Stainless steel with case"
+    },
+    {
+      "n": 3,
+      "emoji": "☕",
+      "title": "Insulated Travel Tumbler",
+      "tag": "Hot or cold drinks"
+    },
+    {
+      "n": 4,
+      "emoji": "🍴",
+      "title": "Bamboo Travel Cutlery Set",
+      "tag": "Skip plastic utensils"
+    },
+    {
+      "n": 5,
+      "emoji": "🍱",
+      "title": "Stainless Steel Lunch Box",
+      "tag": "Plastic-free bento"
+    },
+    {
+      "n": 6,
+      "emoji": "🥪",
+      "title": "Reusable Silicone Snack Bags",
+      "tag": "Leakproof and washable"
+    },
+    {
+      "n": 7,
+      "emoji": "🥡",
+      "title": "Collapsible Food Container",
+      "tag": "Packs flat when empty"
+    },
+    {
+      "n": 8,
+      "emoji": "🛍️",
+      "title": "Foldable Reusable Tote Bag",
+      "tag": "Fits in your pocket"
+    },
+    {
+      "n": 9,
+      "emoji": "🧊",
+      "title": "Reusable Ice Packs",
+      "tag": "Keeps lunch cold"
+    },
+    {
+      "n": 10,
+      "emoji": "🥛",
+      "title": "Silicone Cup Lid",
+      "tag": "Skip disposable lids"
+    }
+  ],
+  "pins": [
+    {
+      "n": 1,
+      "main": [
+        "10 Reusable Swaps",
+        "for Lunch & Travel",
+        "Under $20"
+      ],
+      "sub": "Ditch single-use plastic on the go",
+      "photo_hint": "water bottle bamboo cutlery",
+      "title": "10 Reusable Swaps for Lunch and Travel Under $20",
+      "description": "Easy reusable swaps for life on the go. Cut single-use plastic with a reusable water bottle, travel cutlery, metal straws and more. Affordable eco friendly ideas for beginners. #ad #zerowaste #plasticfree #reusable #ecofriendly",
+      "emoji": "🎒"
+    },
+    {
+      "n": 2,
+      "main": [
+        "Zero Waste",
+        "Lunch Packing",
+        "on a Budget"
+      ],
+      "sub": "Reusable swaps under $20",
+      "photo_hint": "packed lunch table",
+      "title": "Zero Waste Lunch Packing on a Budget",
+      "description": "Pack lunch with less single-use plastic. Reusable bottles, travel cutlery and more simple eco friendly swaps under $20. #ad #zerowaste #plasticfree #lunchideas #ecofriendly",
+      "emoji": "🥪"
+    },
+    {
+      "n": 3,
+      "main": [
+        "Reusable Travel",
+        "Essentials for",
+        "Beginners"
+      ],
+      "sub": "Simple eco swaps on the go",
+      "photo_hint": "travel flatlay",
+      "title": "Reusable Travel Essentials for Eco Beginners",
+      "description": "Travel with less waste using a reusable water bottle, straws and cutlery. Beginner friendly and affordable, all under $20. #ad #zerowaste #travel #reusable #ecofriendly",
+      "emoji": "🧳"
+    },
+    {
+      "n": 4,
+      "main": [
+        "Ditch Single-Use",
+        "Plastic On",
+        "The Go"
+      ],
+      "sub": "Easy swaps, all under $20",
+      "photo_hint": "reusable bottle outdoors",
+      "title": "Ditch Single-Use Plastic On The Go (Easy Swaps)",
+      "description": "Cut single-use plastic when you're out and about with a reusable bottle, cutlery and straws. Affordable zero waste swaps under $20. #ad #zerowaste #plasticfree #reusable #sustainableliving",
+      "emoji": "♻️"
+    },
+    {
+      "n": 5,
+      "main": [
+        "Reusable Water",
+        "Bottle Swap",
+        "Under $20"
+      ],
+      "sub": "Skip bottled water",
+      "photo_hint": "stainless steel water bottle",
+      "title": "Reusable Water Bottle: Easy Zero Waste Swap Under $20",
+      "description": "An insulated reusable water bottle is one of the simplest ways to cut single-use plastic every day. See an affordable option under $20. #ad #reusablebottle #zerowaste #plasticfree #ecofriendly",
+      "emoji": "💧"
+    },
+    {
+      "n": 6,
+      "main": [
+        "Zero Waste",
+        "Coffee Run",
+        "Reusable Tumbler"
+      ],
+      "sub": "Tumbler + metal straw",
+      "photo_hint": "coffee tumbler",
+      "title": "Zero Waste Coffee Run: Reusable Tumbler and Straw",
+      "description": "Skip the disposable cup. A reusable insulated tumbler and metal straw make an easy low waste coffee routine, under $20. #ad #zerowaste #reusable #plasticfree #ecofriendly",
+      "emoji": "☕"
+    },
+    {
+      "n": 7,
+      "main": [
+        "Bamboo Travel",
+        "Cutlery Set",
+        "Skip Plastic"
+      ],
+      "sub": "Pack it in your bag",
+      "photo_hint": "bamboo cutlery set",
+      "title": "Bamboo Travel Cutlery: Skip Plastic Utensils",
+      "description": "Carry a reusable bamboo cutlery set instead of using plastic utensils. Compact, affordable and beginner friendly, under $20. #ad #bamboocutlery #zerowaste #plasticfree #reusable",
+      "emoji": "🍴"
+    },
+    {
+      "n": 8,
+      "main": [
+        "Eco Friendly",
+        "Travel Kit",
+        "Under $20"
+      ],
+      "sub": "Small swaps, big difference",
+      "photo_hint": "eco travel kit",
+      "title": "Eco Friendly Travel Kit Under $20",
+      "description": "Build a simple zero waste travel kit: reusable bottle, metal straws, bamboo cutlery and more. Affordable and beginner friendly. #ad #zerowaste #ecofriendly #reusable #plasticfree",
+      "emoji": "🌍"
+    },
+    {
+      "n": 9,
+      "main": [
+        "Plastic-Free",
+        "Office Lunch",
+        "Essentials"
+      ],
+      "sub": "Easy reusable swaps for work",
+      "photo_hint": "desk lunch office",
+      "title": "Plastic Free Office Lunch Essentials",
+      "description": "Bring lunch to work with less single-use plastic. Reusable bottle, cutlery and straws, all under $20. #ad #zerowaste #plasticfree #worklunch #reusable",
+      "emoji": "🥗"
+    },
+    {
+      "n": 10,
+      "main": [
+        "Easy Reusable",
+        "Swaps for Work,",
+        "School + Travel"
+      ],
+      "sub": "All under $20",
+      "photo_hint": "backpack reusable items",
+      "title": "Easy Reusable Swaps for Work, School and Travel",
+      "description": "Simple reusable swaps to take with you everywhere. Cut single-use plastic with affordable eco friendly basics, all under $20. #ad #zerowaste #reusable #ecofriendly #sustainableliving",
+      "emoji": "🌱"
+    }
+  ]
+}
